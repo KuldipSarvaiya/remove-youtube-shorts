@@ -19,7 +19,7 @@ npm run build
 - Go to extention setting in browser
     - for Edge : `edge://extensions/`
     - for Chrome : `chrome://extensions/`
-  
+- Enable developer mode
 - Import that folder into the browser installed extension
 
 
@@ -30,4 +30,4 @@ npm run build
 
 # Ready Made Extension (`dist` folder)
 
-- `dist` folder in this repo is ready to use extension build. Just import that folder into browser extension setting as unpacked and you are good to go.
+- `dist` folder in this repo is ready to use extension build. Just enable developer mode and import that folder into browser extension setting as unpacked and you are good to go.
