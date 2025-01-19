@@ -4,11 +4,15 @@
 
 1. Install dependacies
 
-```npm install```
+```
+npm install
+```
 
 2. Generate a build
 
-```npm run build```
+```
+npm run build
+```
 
 3. Import build in Browser
 - The 2nd step will generate folder named 'dist', that is build folder.
