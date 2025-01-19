@@ -22,3 +22,8 @@
 ### This project uses following vite plugin to convert simple app into Extension
 
 ```https://crxjs.dev/vite-plugin/```
+
+
+# Ready Made Extension (`dist` folder)
+
+- `dist` folder in this repo is ready to use extension build. Just import that folder into browser extension setting as unpacked and you are good to go.
