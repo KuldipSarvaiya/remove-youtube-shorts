@@ -2,5 +2,11 @@
   "manifest_version": 3,
   "name": "Youtube Short Remover Chrome Extension",
   "version": "1.0.0",
-  "action": { "default_popup": "index.html" }
+  "action": { "default_popup": "index.html" },
+  "content_scripts": [
+    {
+      "js": ["src/youtube.js"],
+      "matches": ["https://www.youtube.com/*"]
+    }
+  ]
 }
